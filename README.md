@@ -4,7 +4,7 @@
 🌱 I’m currently learning **Python**, **Java** and **SQL**  
 </br>
 
-### 📑 **School Projects:**  
+📑 **School Projects:**  
 - IoT [1DT308/902 Introductory project](https://github.com/Mstalgren/20HT---1DT308-1DT902---Introducerande-projekt)
 
 <!---
