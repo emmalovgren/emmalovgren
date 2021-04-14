@@ -1,7 +1,7 @@
 # 📌 GitHub @emmalovgren
 - 👋 Hi, I’m Emma 
 - 👀 I’m interested in ... a lot, because I'm a beginner and student ... but one goal is to learn more about **IT security** or **cyber security**
-- 🌱 I’m currently learning **Python**, **Java** and **Mysql**
+- 🌱 I’m currently learning **Python**, **Java** and **SQL**
 
 
 📑 **School Projects:**  
