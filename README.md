@@ -1,10 +1,10 @@
 # 📌 GitHub @emmalovgren
-- 👋 Hi, I’m Emma 
-- 👀 I’m interested in ... a lot, because I'm a beginner and student ... but one goal is to learn more about **IT security** or **cyber security**
-- 🌱 I’m currently learning **Python**, **Java** and **SQL**
+👋 Hi, I’m Emma  
+👀 I’m interested in ... a lot, because I'm a beginner and student ... but one goal is to learn more about **IT security** or **cyber security**  
+🌱 I’m currently learning **Python**, **Java** and **SQL**  
+</br>
 
-
-📑 **School Projects:**  
+### 📑 **School Projects:**  
 - IoT [1DT308/902 Introductory project](https://github.com/Mstalgren/20HT---1DT308-1DT902---Introducerande-projekt)
 
 <!---
